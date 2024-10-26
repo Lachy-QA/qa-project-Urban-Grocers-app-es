@@ -1,8 +1,8 @@
 # Write the requests that are made to the postman (these are functions. Example: request.post)
 
 import configuration
-import requests
 import data
+import requests
 
 # 1. Send a request to create a new user. Remember the authentication token (authToken).
 def create_new_user ():
