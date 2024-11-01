@@ -66,4 +66,3 @@ def diferent_param ():
     response_diferent_param = sender_stand_request.create_personal_kit(123)
     negative_assert(response_diferent_param.status_code)
     assert response_diferent_param.json()["name"] == 123
-

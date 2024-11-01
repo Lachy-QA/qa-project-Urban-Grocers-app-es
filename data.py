@@ -11,4 +11,3 @@ body_create_new_user_minimal_data = {"firstName": "Max",
 
 # Headers for request POST of Create a personal kit
 headers_create_personal_kit = {"Content-Type": "application/json"}
-

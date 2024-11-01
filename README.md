@@ -19,4 +19,3 @@ v) Hacer clic correr
 Cada vez que se requería de una acción se generó una función meduiante "def" y se utilizó el comando "retur" para que me devuelva el resultado de la función. 
 A todas las pruebas se añadió el prefijo "test"
 # Los resultados muestran que las pruebas de validación negativa fallaron. 
-
