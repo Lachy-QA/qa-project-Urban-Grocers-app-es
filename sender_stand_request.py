@@ -28,3 +28,4 @@ response_create_personal_kit = create_personal_kit ("Max")
 print(response_create_personal_kit)
 print(response_create_personal_kit.status_code)
 print(response_create_personal_kit.json())
+
